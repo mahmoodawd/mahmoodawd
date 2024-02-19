@@ -26,6 +26,9 @@
 
   #### [Whistle](https://github.com/mahmoodawd/oibsip-Whistle)
   -  User-friendly Android application allows users to measure elapsed time with precision.
+  
+  #### [TicTacToe](https://github.com/mahmoodawd/TicTacToe)
+  -  Desktop Game allows players to enjoy the classic game of Tic-Tac-Toe in various modes, including single-player against the computer, local multiplayer, and online multiplayer.
 ---
 
 - 💬 Ask me about **Java, Kotlin, C++, Dart**
@@ -39,6 +42,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahmoodawd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoodawd" height="30" width="40" /></a>
 <a href="https://wa.me/+201141680631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mahmooodawd" height="30" width="40" /></a>
+<a href="mailto:abdofahd20000@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/download/223047/gmail.svg" alt="mahmooodawd" height="30" width="40" /></a>
 </p>
 
 ---
