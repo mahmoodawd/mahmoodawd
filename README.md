@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Awad</h1>
 <h3 align="center">A junior Android developer with a passion for creating beautiful and functional mobile apps. With experience in Java Kotlin, and Flutter.</h3>
 
-- 🔭 I’m currently working on [Swvl Clone](https://github.com/mahmoodawd/SwvlClone)
-
-- 🌱 I’m currently learning **Jetpack Compose**
-  
-  ---
 
 ## 🔭Find my latest Projects
 
